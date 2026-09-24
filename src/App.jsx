@@ -8,7 +8,6 @@ import HackathonProjects from './components/HackathonProjects';
 import Timeline from './components/Timeline';
 import CreativeCorner from './components/CreativeCorner';
 import Contact from './components/Contact';
-import Chatbot from './components/Chatbot';
 
 function App() {
   return (
@@ -32,7 +31,7 @@ function App() {
         <Contact />
       </main>
 
-      <Chatbot />
+     
     </div>
   );
 }
